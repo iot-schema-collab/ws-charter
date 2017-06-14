@@ -1,0 +1,58 @@
+Scope and Charter for iotschema
+
+
+Objective
+
+Enable web scale applications to include connected things and the connected physical world by extending schema.org design patterns and ecosystem. 
+
+
+Deliverables
+
+Publish a set of reusable, composable semantic definitions to describe connected things, their context, and behavior.
+
+Initially, focus on a set of definitions for the common affordances provided by connected things, particularly as applies to the household domain. For example, provide interoperable definitions applicable to connected lights, door locks, appliances, across today's fragmented device ecosystem(s).
+
+
+Approach
+
+Solicit participation across the industry, both horizontally, including information system experts and system architects, and vertically, specializing in application domains such as smart home, automotive, health care, and energy distribution.
+
+Agree on a common format for definition based on schema.org and relevant extensions.
+
+Make use of existing ontologies and vocabularies like SSN, SOSA, SAREF, and QUDT as much as practical, defining new terms in the context of existing concepts from these ontologies.
+
+Accept diverse contributions of definitions in the common information format.
+
+Normalize the set of contributions to a minimum consistent set of definitions for interoperability.
+
+
+Process
+
+Develop a commmunity process to publish an agreed-on set of consistent and standardized definitions, and maintain them over time as needed to incorporate and adapt to new technology and requirements.
+
+Coordinate with and make use of the appropriate W3C Community groups, including the Web of Things Community Group, in order to reduce duplication of effort and keep our efforts aligned with the relevant use cases.
+
+
+Collaboration with other organizations
+
+Develop use cases that support application frameworks that are being developed in other standards organizations, for example the W3C WoT Thing Description.
+
+
+Policy
+
+The governong IP policy for contributions shall be conformant with the W3C Community Group IPR policy and CLA: https://www.w3.org/community/about/agreements/cla/
+
+Contributors must be a member of either the W3C Web of Things Community Group or schema.org.
+
+Published definitions shall be licensed under the Creative Commons Attribution License ( CC BY ) https://creativecommons.org/licenses/by/4.0/
+
+All communications under the subject of iot.schema.org shall be assumed to be conformant contributions. See the IETF Note Well:
+https://www.ietf.org/about/note-well.html
+
+
+
+
+
+
+
+
